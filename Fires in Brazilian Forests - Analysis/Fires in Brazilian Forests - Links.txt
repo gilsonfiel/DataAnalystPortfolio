@@ -1,0 +1,5 @@
+Base de dados disponível em
+  https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
+
+Visualização de dados disponível no Tableu Public 
+  https://public.tableau.com/app/profile/gilsonilo.goes/viz/FiresinBrazilianForests1998-2017/Painel12
